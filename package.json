@@ -1,0 +1,12 @@
+{
+  "name": "Cs_Note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zero1997u/Cs_Note.git",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "clearlove",
+  "license": "MIT"
+}
